@@ -692,7 +692,7 @@
 /* swiper 1 */
 
 .mySwiper1 {
-  margin-bottom: 60px;
+  margin-bottom: 10px;
 }
 
 .mySwiper1 .swiper-wrapper {
@@ -714,6 +714,10 @@
 }
 
 /* motivation */
+
+.motivation-container {
+  margin-top: 60px;
+}
 
 .motivation-title {
   text-align: center;
